@@ -5,7 +5,7 @@ exports.run = async (bot,message,args) => {
     let embed = new MessageEmbed()
 
     .setTitle('***trash bot lollllll!!!!***')
-    .setDescription('***hi im a trash bot i have no commands now that you can use bot my Developer will add some commands to me LOLOOOLLLOLOLO!!!!! ***')
+    .setDescription('***hi im trash bot i have no commands now that you can use but my Developer will add some commands to me LOLOOOLLLOLOLO!!!!! ***')
     .setColor("#11d4cf")
     .setThumbnail(bot.user.avatarURL());
 
